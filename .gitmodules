@@ -1,0 +1,3 @@
+[submodule "toychain-argos"]
+	path = toychain-argos
+	url = https://github.com/donatienLeray/toychain-argos
